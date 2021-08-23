@@ -1,0 +1,24 @@
+**Pesquisas**
+
+🐞 O que é indentação?
+[ Informática, Tipografia ] Acto ou efeito de indentar. ... [ Informática, Tipografia ] Espaço entre a margem e o início do texto num parágrafo.
+
+🐞 O que é uma fonte monoespaçada? O editor de código usa isso?
+Uma fonte monoespaçada, também chamada de passo-fixo ou não-proporcional, é uma fonte tipográfica cujas letras e caracteres ocupam o mesmo espaço horizontal. Isto contrasta com as fontes de largura-variável, onde as letras diferem em tamanho de uma para a outra. Sim, o editor de código usa.
+
+-----------
+
+**Pesquisa**
+
+🐞 O que significa atribuição?
+O mesmo que: adversidades, dores, aflições, angústias, apertos, infelicidades, mágoas, mortificações, tormentos.
+
+-----------
+
+**Pesquisa**
+
+🐞 Quais são as regras para criação de nomes de variáveis?
+Todo nome deve ser composto apenas por letras, números e sublinhado ( ‘_’ ), Deve começar com uma letra e Não pode ser igual a nenhuma palavra reservada, ou seja, palavras que já possuam um significado próprio para a linguagem como por exemplo, true, var ou if.
+
+🐞 Qual a diferença entre declaração e expressão?
+As declarações representam uma ação ou um comando, por exemplo, instruções print, instruções de atribuição. Expressão é uma combinação de variáveis, operações e valores que gera um valor de resultado. Uma expressão é algo que pode ser reduzido a um valor, por exemplo, "1+3" ou "foo = 1+3" .

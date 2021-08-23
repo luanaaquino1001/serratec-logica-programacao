@@ -1,0 +1,10 @@
+Math.radom(); 
+
+A função Math. random() retorna um número pseudo-aleatório no intervalo [0, 1[ , ou seja, de 0 (inclusivo) até, mas não incluindo, 1 (exclusivo), que depois você pode dimensionar para um intervalo desejado.
+
+----------
+
+Math.floor();
+
+A função Math.floor(x) retorna o menor número inteiro dentre o número "x". Exemplo: Usando Math.floor: Math.floor( 45.95); //  45
+Math.floor(-45.95); // -46

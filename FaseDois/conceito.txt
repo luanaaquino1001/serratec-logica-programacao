@@ -1,0 +1,4 @@
+Integer quantidade;
+String endereco;
+Float precoEtanol;
+String nomeLivro;
