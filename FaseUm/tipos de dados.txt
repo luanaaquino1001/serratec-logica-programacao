@@ -1,0 +1,20 @@
+a. Inteiro
+b. Texto
+c. real
+d. verdadeiro/falso
+e. Texto
+f. Caractere
+g. resposta lógica
+h. Datas
+i. Inteiro
+j. Inteiro
+k. Datas
+l. Inteiros
+m. Caractere
+n. Textos
+o. Inteiro
+p. reais
+q. reais
+r. Inteiros
+s. logica
+t. verdadeiro/falso
