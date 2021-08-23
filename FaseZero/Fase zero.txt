@@ -1,0 +1,62 @@
+Separar duas fatias de pão de forma
+Separar Queijo e Presunto
+Pegar um pão de forma e colocar queijo e presunto
+Pegar o outro pão de forma e juntar com o pão com os frios
+Cortar o pão ao meio com a faca
+servir
+
+----------
+
+**Pesquisas**
+
+🐞 O que são sintaxe e semântica? 
+A sintaxe é a parte da gramática que se preocupa com a relação entre as palavras. A semântica forma o sentido.
+
+🐞 Quantas linguagens de programação existem?
+A resposta também pode surpreendê-lo. A Wikipédia afirma que há aproximadamente 700 linguagens de programaçãoenquanto outros dizem que esse número é mais perto de 9000! A verdade é que tem havido inúmeras linguagens de programação criadas ao longo da história.
+
+🐞 Quais são as linguagens de programação mais utilizadas no mercado?
+JavaScript, Python, Java, C#, PHP, C++, TypeScript, C, Ruby e Go.
+
+----------
+
+# Receita de Bolo Simples
+
+## Ingredientes
+
+* 2 xícaras (chá) de açúcar
+* 3 xícaras (chá) de farinha de trigo
+* 4 colheres (sopa) de margarina
+* 3 ovos
+* 1 e1/2 xícara (chá) de leite
+* 1 colher (sopa) bem cheia de fermento em pó
+
+## Modo de Preparo
+
+
+* Bata as claras em neve e reserve.
+* Misture as gemas, a margarina e o açúcar até obter uma massa homogênea
+* Acrescente o leite e a farinha de trigo aos poucos, sem parar de bater.
+* Por último, adicione as claras em neve e o fermento.
+* Despeje a massa em uma forma grande de furo central untada e enfarinhada.
+* Asse em forno médio 180 °C, preaquecido, por aproximadamente 40 minutos ou ao furar o bolo com um garfo, este saia limpo.
+
+Receita de Bolo Simples
+
+Ingredientes
+
+2 xícaras (chá) de açúcar
+3 xícaras (chá) de farinha de trigo
+4 colheres (sopa) de margarina
+3 ovos
+1 e1/2 xícara (chá) de leite
+1 colher (sopa) bem cheia de fermento em pó
+
+Modo de Preparo
+
+Bata as claras em neve e reserve.
+Misture as gemas, a margarina e o açúcar até obter uma massa homogênea
+Acrescente o leite e a farinha de trigo aos poucos, sem parar de bater.
+Por último, adicione as claras em neve e o fermento.
+Despeje a massa em uma forma grande de furo central untada e enfarinhada.
+Asse em forno médio 180 °C, preaquecido, por aproximadamente 40 minutos ou ao furar o bolo com um garfo, este saia limpo.
